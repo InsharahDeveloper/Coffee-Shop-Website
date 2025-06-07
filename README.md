@@ -1,9 +1,48 @@
-<h1>Hy👋🏻, I am <b><u>Developer Insharah</u></b>.</h1>
-I am studying 📖 in class <b><u>10 <sup>th</sup></u></b>. <br>
-I am currently ⚡ learning 📖 <b> <u> "HTML and CSS"</u> </b>.<br>
-<h2>ABOUT WEB PAGE :</h2>
-<ul>
-  <li>This is a Task 2 of<b><u>"CSS Final Exam before Task"</u></b></li>
-  <li>This is done by <a href="https://github.com/DeveloperInsharah"><b><u>@Developer Insharah"</u></b></a>.</li>
-  <li>That is done by using  <b><u>"HTML CSS and Bootstrap".</u></b></li>
-</ul>
+# ☕ Coffee Shop Website
+
+A modern, responsive, and visually appealing coffee shop website built using **HTML5**, **CSS3**, and **Bootstrap 5**. This project showcases a fictional café's online presence with engaging sections and interactive elements.
+
+## 🌐 Live Demo
+
+👉 [View Live Website](https://insharahdeveloper.github.io/Coffee-Shop-Website/)
+
+---
+
+## 🧑‍💻 Developer Information
+
+- **Name:** Insharah Irfan  
+- **GitHub:** [@InsharahDeveloper](https://github.com/InsharahDeveloper)
+
+---
+
+## 📸 Project Preview
+
+### 🖼️ Screenshot
+
+![Screenshot of Coffee Shop Website](img/screenshot.png)
+
+---
+
+## 🚀 Features
+
+- Responsive design for all devices  
+- Hero section with a strong call-to-action  
+- About section for story and mission  
+- Menu section for coffee items  
+- Live coffee making highlight  
+- Customer testimonials  
+- Blog/articles section  
+- Newsletter subscription form  
+- Social media links in the footer  
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5  
+- CSS3  
+- Bootstrap 5  
+- Google Fonts (`Poppins`, `Aboreto`)  
+- Remix Icon  
+- AOS (Animate On Scroll)
+
