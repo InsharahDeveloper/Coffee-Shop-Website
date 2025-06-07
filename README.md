@@ -19,7 +19,8 @@ A modern, responsive, and visually appealing coffee shop website built using **H
 
 ### 🖼️ Screenshot
 
-![Screenshot of Coffee Shop Website](img/screenshot.png)
+![Screenshot of Coffee Shop Website](![image](https://github.com/user-attachments/assets/eef1679d-c468-4074-9fac-84d65addd771)
+)
 
 ---
 
